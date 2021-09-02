@@ -1,2 +1,2 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=BigSteel)
+![](https://github.com/BigSteel/BigSteel/blob/main/cat.jpeg)
